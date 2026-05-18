@@ -1,63 +1,35 @@
-# 👋 Hey there, I'm Vishal Khajuriya
+# Vishal Khajuriya
 
-🎓 ECE Graduate | 💡 Tech Explorer | 🚀 Future-Ready Engineer  
-🔍 Seeking growth in Embedded Systems, DevOps, Business Analysis, and IoT
+**AI Product Builder** — I design AI-powered products and direct multi-agent systems to build them.
 
----
-
-### 👨‍💻 About Me
-
-I’m a passionate tech learner with a diverse skill set across **electronics**, **automation**, **cloud tools**, and **business strategy**. Whether it's optimizing embedded systems, learning DevOps workflows, building dashboards, or trading markets — I dive deep into what I love and create real impact.
-
-Currently focusing on:
-- ⚙️ Embedded Tech (EV Systems, Sensors, CAN Protocols, IoT)
-- ☁️ DevOps Tools (Git, Terraform, Docker, CI/CD)
-- 📊 Business/Data Analysis (Excel, Power BI, SQL)
-- 🧠 Soft Skills (Project Management, Sales Strategy, Leadership)
+[Portfolio](https://Vishalk50.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/vishal-kkhajuriya-a182b91b5/) • [Email](mailto:vishalkhajuriya443@gmail.com)
 
 ---
 
-### 🛠 Tech Stack
+### What I Do
 
-**Languages & Scripts:**  
-`/C++ • Python • SQL •
+I focus on the **what** and **why** — AI handles the **how**. I turn ideas into working software by orchestrating multi-agent pipelines, vector search, LLM APIs, and full-stack deployments.
 
-**Electronics & Embedded Tools:**  
-`Arduino` • `NodeMCU` • `PCB Design` • `KiCad` • `PSpice` • `Sensors` • `BMS & CAN`
+### Shipped Products
 
-**DevOps & Cloud:**  
-`Git & GitHub` • `Jira` • `Docker` • `Terraform (Basics)` • `CI/CD Concepts`
+| Project | Stack | Status |
+|---------|-------|--------|
+| [ChatBot Studio](https://github.com/Vishalk50/ChatBot-Studio) — Upload PDF/TXT, get an AI chatbot | Flask, FAISS, Gemini API, Sentence Transformers | Complete |
+| [AI-Video-Summarizer](https://github.com/Vishalk50/-AI-Video-Summarizer-) — YouTube transcript + AI summary | Streamlit, FastAPI, Gemini API, Multi-Agent | Complete |
+| QuarterlyClock — Desktop trading session tracker | Python, Tkinter, PyInstaller | Complete |
+| 6h 40m Candles — Custom TradingView indicator | Pine Script v6 | Complete |
+| Voice-Trade-Recorder — Mandi voice-to-bill system | Python, Whisper, Gemini API | In Progress |
 
-**Business Tools:**  
-`Excel (Advanced)` • `Power BI` • `CRM Tools` • `DBMS` • `Project Mgmt Software`
+### Tech
 
----
+`Python` `Flask` `FastAPI` `Streamlit` `Gemini API` `OpenAI API` `FAISS` `Sentence Transformers` `Multi-Agent Systems` `RAG Pipelines` `Voice AI` `Web Scraping` `Docker` `GitHub Actions` `Astro`
 
-### 📌 Featured Projects
+### Current Focus
 
-> *(Once you push these, pin them to your GitHub homepage)*
-
-- [`iot-sensor-monitor`](https://github.com/Vishalk50/iot-sensor-monitor): Real-time DHT11 sensor + NodeMCU + ThingSpeak project.
-- [`devops-lab`](https://github.com/Vishalk50/devops-lab): Hands-on Docker, CI/CD, Git practice projects.
-- [`powerbi-sales-dashboard`](https://github.com/Vishalk50/powerbi-sales-dashboard): Business insights dashboard for monthly sales analysis.
-- [`embedded-circuits`](https://github.com/Vishalk50/embedded-circuits): PCB & simulation experiments using KiCad & PSpice.
+- Building AI products for freelance clients (Fiverr / Upwork)
+- Multi-agent systems for document Q&A, summarization, and automation
 
 ---
 
-### 🚀 Career Path
-
-- **Intern**, Robonauts India: Embedded prototyping, IoT, PCB, drone tech.  
-- **Sales Associate**, Renatus Wellness: Led regional sales, product demos, leadership experience.  
-- Currently preparing for **Business Analyst**, **Embedded Engineer**, and **DevOps Associate** roles.
-
----
-
-### 🔗 Connect With Me
-
-- 📧 Email: vishalkhajuriya443@gmail.com 
-- 🔗 LinkedIn: https://www.linkedin.com/in/vishal-kkhajuriya-a182b91b5/
-
----
-
-_“From circuit boards to cloud pipelines, I’m building tech that matters.”_
+*"I design AI products. AI builds them."*
 
