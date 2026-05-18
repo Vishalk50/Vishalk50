@@ -2,7 +2,7 @@
 
 **AI Product Builder** — I design AI-powered products and direct multi-agent systems to build them.
 
-[Portfolio](https://Vishalk50.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/vishal-kkhajuriya-a182b91b5/) • [Email](mailto:vishalkhajuriya443@gmail.com)
+[Portfolio](https://Vishalk50.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/vishal-khajuriya-a182b91b5/) • [Email](mailto:vishalkhajuriya443@gmail.com)
 
 ---
 
